@@ -27493,7 +27493,7 @@
 	        ),
 	        _react2.default.createElement(
 	          "a",
-	          { href: "https://docs.google.com/document/d/1mGpTRoTVUpebb5HWx2SNgmEdSktyYyP7", target: "_blank" },
+	          { href: "https://docs.google.com/document/d/1Q7yWp6GEmIJES1VPRFVnwg2RI-FUH43LZtgZ0RkHRhk", target: "_blank" },
 	          _react2.default.createElement("i", { className: "far fa-file-alt fa-2x soc" })
 	        )
 	      );
