@@ -27638,7 +27638,7 @@
 	          letter: "e",
 	          image: "whose_hue.png",
 	          title: "An NFL quiz game that tests your knowledge of each team's colors! Uses vanilla JS.",
-	          href: "https://codepen.io/apjawors/full/WwNvbq/",
+	          href: "https://codepen.io/apjawors/full/zYjPrwM",
 	          delay: { animationDelay: ".3s" }
 	        })
 	      ),
